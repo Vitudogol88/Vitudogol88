@@ -2,7 +2,7 @@
 
 Meu nome é Vitor Henrique 
 
-- estou estudando no alura
+- estou estudando no alura ![](https://cursos.alura.com.br/dashboard)
 - estou me desenvolvendo na linguagen javascript
 - utilizo esse espaco para a minha organizacao e compartilhamento dos meus projetos desenvolvidos
 
